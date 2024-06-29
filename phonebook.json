@@ -1,0 +1,58 @@
+[
+  {
+    "First Name": "John",
+    "Last Name": "Smith",
+    "Number": "122-852-8520",
+    "Email": null,
+    "Favorite": false
+  },
+  {
+    "First Name": "John",
+    "Last Name": "Smith",
+    "Number": "122-852-8520",
+    "Email": null,
+    "Favorite": false
+  },
+  {
+    "First Name": "John",
+    "Last Name": "Smith",
+    "Number": "122-852-8520",
+    "Email": null,
+    "Favorite": false
+  },
+  {
+    "First Name": "John",
+    "Last Name": "Smith",
+    "Number": "122-852-8520",
+    "Email": null,
+    "Favorite": false
+  },
+  {
+    "First Name": "John",
+    "Last Name": "Smith",
+    "Number": "122-852-8520",
+    "Email": null,
+    "Favorite": false
+  },
+  {
+    "First Name": "John",
+    "Last Name": "Smith",
+    "Number": "122-852-8520",
+    "Email": null,
+    "Favorite": false
+  },
+  {
+    "First Name": "Alice",
+    "Last Name": "Smith",
+    "Number": "123-456-7890",
+    "Email": "alice@example.com",
+    "Favorite": false
+  },
+  {
+    "First Name": "Bob",
+    "Last Name": "Brown",
+    "Number": "987-654-3210",
+    "Email": "bob@example.com",
+    "Favorite": false
+  }
+]
